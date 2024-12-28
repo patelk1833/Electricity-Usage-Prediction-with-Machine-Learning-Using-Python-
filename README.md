@@ -1,7 +1,6 @@
 # Electricity Usage Prediction with Machine Learning Using Python
-
-# Electricity Usage Prediction with Machine Learning Using Python
-
+### By: Ahmed Ayaz, Krish Patel & Dylan Pate
+### Date:  12/2/2024
 ## Overview
 This project focuses on developing a predictive model for electricity usage to optimize energy consumption and reduce costs. By analyzing weather, occupancy, and seasonal patterns, the XGBoost model achieved **90% accuracy** for small and medium states. The insights provided actionable recommendations for energy optimization.
 
