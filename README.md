@@ -84,12 +84,6 @@ Enhance the model’s capability by:
 - **[Jupyter Notebook](https://github.com/patelk1833/Electricity-Usage-Prediction-with-Machine-Learning-Using-Python-/blob/main/notebook%26presentation/Electricity_Usage_Prediction.ipynb):** Showcasing the workflow, from data preprocessing to modeling.
 - **[PDF Presentation](https://github.com/patelk1833/Electricity-Usage-Prediction-with-Machine-Learning-Using-Python-/blob/main/notebook%26presentation/Electricity-Usage-Prediction-Presentation.pdf):** Summarizing the project's methodology and results.
 
-### [state_plots/](https://github.com/patelk1833/Electricity-Usage-Prediction-with-Machine-Learning-Using-Python-/tree/main/state_plots)
-- State-specific electricity usage visualizations.
-
-### [requirements.txt](https://github.com/patelk1833/Electricity-Usage-Prediction-with-Machine-Learning-Using-Python-/blob/main/requirements.txt)
-- A file listing all dependencies needed to run the project.
-
 ### [.devcontainer/](https://github.com/patelk1833/Electricity-Usage-Prediction-with-Machine-Learning-Using-Python-/tree/main/.devcontainer)
 - Configuration files for development environments.
 
