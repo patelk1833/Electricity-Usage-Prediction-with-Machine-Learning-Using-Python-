@@ -4,6 +4,8 @@
 ## Overview
 This project focuses on developing a predictive model for electricity usage to optimize energy consumption and reduce costs. By analyzing weather, occupancy, and seasonal patterns, the XGBoost model achieved **90% accuracy** for small and medium states. The insights provided actionable recommendations for energy optimization.
 
+[Dashboard](https://electricity-usage-prediction.vercel.app/)
+
 ## Objectives
 - Build a machine learning model to forecast electricity usage.
 - Identify key factors such as weather and seasonal patterns affecting energy consumption.
